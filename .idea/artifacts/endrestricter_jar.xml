@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="endrestricter:jar">
+    <output-path>$PROJECT_DIR$/../endrestricter_jar</output-path>
+    <root id="archive" name="endrestricter.jar">
+      <element id="module-output" name="endrestricter" />
+    </root>
+  </artifact>
+</component>
